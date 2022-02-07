@@ -1,4 +1,4 @@
-![Mirnes Glamočić](https://drive.google.com/file/d/1Qq9UHklGWFCo1H47SRWhjyFrsSexo0xo/view?usp=sharing)
+![Mirnes Glamočić](https://drive.google.com/file/d/1Qq9UHklGWFCo1H47SRWhjyFrsSexo0xo/view)
 Mirnes Glamočić is an experienced *Full-Stack Web Developer and Designer* with a passion for clean design, standard-based code and open-source software. Certified by [ITAcademy](https://www.link-group.eu/portfolio/itacademy), and several learning educational platforms as [LinkedIn Learning](https://www.linkedin.com/learning), [W3Schools](https://www.w3schools.com/), [Pluralsight](https://www.pluralsight.com/), [Cybrary](https://www.cybrary.it/), [Eduonix](https://www.eduonix.com/), [EDUCBA](https://www.educba.com/) and [SoloLearn](https://www.sololearn.com/).
 He enjoy coding and learn new things every day. 
 
