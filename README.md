@@ -6,7 +6,7 @@ He is highly skilled at following programming languages and technologies:
 |  Front-end Development  |  Backend Development  |  Database Development  |  Adobe Tools  |  CMS               | Other Skills      |
 |-------------------------|-----------------------|------------------------|---------------|--------------------|-------------------|
 |  HTML                   |  PHP                  |  SQL                   |  Dreamweaver  |  WordPress         |     SEO           |
-|  CSS & SASS             |  Laravel              |  MySQL                 |  Bridge       |  Joomla            |     GIT           |
+|  CSS & SASS             |  Laravel              |  MySQL                 |  Bridge       |  Joomla!           |     GIT           |
 |  Bootstrap              |  Symfony              |  MariaDB               |  Lightroom    |
 |  JavaScript             |  CodeIgniter          |  SQLite                |  Photoshop    |
 |  jQuery                 |  CakePHP              |  PostgreSQL            |  Illustrator  |
