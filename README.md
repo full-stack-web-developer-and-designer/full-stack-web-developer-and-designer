@@ -7,8 +7,8 @@ He is highly skilled at following programming languages and technologies:
 |-------------------------|-----------------------|------------------------|---------------|--------------------|-------------------|
 |  HTML                   |  PHP                  |  SQL                   |  Dreamweaver  |  WordPress         |     SEO           |
 |  CSS & SASS             |  Laravel              |  MySQL                 |  Bridge       |  Joomla!           |     GIT           |
-|  Bootstrap              |  Symfony              |  MariaDB               |  Lightroom    |
-|  JavaScript             |  CodeIgniter          |  SQLite                |  Photoshop    |
+|  Bootstrap              |  Symfony              |  MariaDB               |  Lightroom    |                    |     Windows       | 
+|  JavaScript             |  CodeIgniter          |  SQLite                |  Photoshop    |                    |     Linux         |
 |  jQuery                 |  CakePHP              |  PostgreSQL            |  Illustrator  |
 |  Angular                |  Yii                  |  NOSQL                 |  Animate      |
 |  Vue.js                 |  ZEND                 |  MongoDB               |
