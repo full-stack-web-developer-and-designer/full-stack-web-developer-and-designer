@@ -1,8 +1,8 @@
 [![Mirnes Glamočić](https://mirnesglamocic.com/images/developmentMirnes.webp)](https://mirnesglamocic.com)
 Mirnes Glamočić is an experienced *Full-Stack Web Developer and Designer* with a passion for clean design, standard-based code and open-source software. He is certified by [ITAcademy](https://www.link-group.eu/portfolio/itacademy), and several learning educational platforms such as [LinkedIn Learning](https://www.linkedin.com/learning), [W3Schools](https://www.w3profile.com/mirnesglamocic), [Pluralsight](https://www.pluralsight.com/), [Cybrary](https://www.cybrary.it/), [Eduonix](https://www.eduonix.com/), [EDUCBA](https://www.educba.com/) and [SoloLearn](https://www.sololearn.com/).
-He enjoy coding and learn new things every day. 
+He enjoys coding and learning new things every day. 
 
-He is highly skilled at following programming languages and technologies:
+He is highly skilled in the following programming languages and technologies:
 |  Front-end Development  |  Backend Development  |  Database Development  |  Adobe Tools  |  CMS               | Other Skills      |
 |-------------------------|-----------------------|------------------------|---------------|--------------------|-------------------|
 |  HTML                   |  PHP                  |  SQL                   |  Dreamweaver  |  WordPress         |     SEO           |
@@ -13,4 +13,4 @@ He is highly skilled at following programming languages and technologies:
 |  Angular                |  Yii                  |  NOSQL                 |  Animate      |
 |  Vue.js                 |  ZEND                 |  MongoDB               |
 
-Bellow you can see some of his repositories.
+Below you can see some of his repositories.
